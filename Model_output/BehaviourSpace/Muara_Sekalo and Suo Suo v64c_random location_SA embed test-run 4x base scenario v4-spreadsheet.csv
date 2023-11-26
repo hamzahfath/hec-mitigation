@@ -1,0 +1,34 @@
+"BehaviorSpace results (NetLogo 6.3.0)"
+"Muara_Sekalo and Suo Suo v64c_random location_SA embed.nlogo"
+"test-run 4x base scenario v4"
+"08/31/2023 12:40:14:488 +0700"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-125","125","-80","80"
+"[run number]"
+"between-adoption-time-delay",
+"farmers-population",
+"trustworthiness-treshold",
+"RC1",
+"avg-wealth",
+"RC2",
+"SE2",
+"average-node-degree",
+"SE3",
+"TA1",
+"top-down-success-reach-treshold",
+"TA2",
+"std-wealth",
+"TA3",
+"attacks-memory-len",
+"std-attack",
+"scenario",
+"mean-attack",
+"SE1",
+"[reporter]"
+"[final]",
+"[min]",
+"[max]",
+"[mean]",
+"[steps]",
+
+"[all run data]"

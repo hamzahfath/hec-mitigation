@@ -1,0 +1,38 @@
+"BehaviorSpace results (NetLogo 6.3.0)"
+"Muara_Sekalo and Suo Suo v68c_random location_SA embed.nlogo"
+"force recalibrate"
+"09/06/2023 14:57:02:452 +0700"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-125","125","-80","80"
+"[run number]"
+"between-adoption-time-delay",
+"eff-broken-factor",
+"carbide-innitial-adopter",
+"farmers-population",
+"trustworthiness-treshold",
+"RC1",
+"efence-innitial-adopter",
+"SE2",
+"RC2",
+"avg-wealth",
+"average-node-degree",
+"SE3",
+"TA1",
+"top-down-success-reach-treshold",
+"TA2",
+"spotlight-innitial-adopter",
+"std-wealth",
+"TA3",
+"std-attack",
+"attacks-memory-len",
+"scenario",
+"mean-attack",
+"SE1",
+"[reporter]"
+"[final]",
+"[min]",
+"[max]",
+"[mean]",
+"[steps]",
+
+"[all run data]"
